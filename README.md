@@ -24,7 +24,7 @@ Using PyTorch 0.3 will break the detector.
 
 ## Detection Example
 
-![Detection Example](https://github.com/karim-eddin/Object-Detection-YOLO-V3/Detected-with-YOLOv3.jpg)
+![Detection Example](https://github.com/karim-eddin/Object-Detection-YOLO-V3/blob/main/Detected-with-YOLOv3.jpg)
 ## Running the detector
 
 ### On single or multiple images

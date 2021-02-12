@@ -1,4 +1,4 @@
-# Object Detection using PyTorch implementation of YOLO v3
+# Object Detection using PyTorch and YOLO v3
 
 This repository contains code for a object detector based on [YOLOv3](https://pjreddie.com/darknet/yolo/), implementedin PyTorch. The code is based on the official code of [YOLO v3](https://github.com/pjreddie/darknet), as well as a PyTorch 
 port of the original code, by [marvis](https://github.com/marvis/pytorch-yolo2). One of the goals of this code is to improve

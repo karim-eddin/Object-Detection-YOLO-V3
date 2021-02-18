@@ -11,6 +11,7 @@ from util import count_parameters as count
 from util import convert2cpu as cpu
 from util import predict_transform
 
+# test net
 class test_net(nn.Module):
     def __init__(self, num_layers, input_size):
         super(test_net, self).__init__()
